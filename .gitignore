@@ -182,3 +182,7 @@
 /Notes/obj/Debug/net9.0-windows10.0.19041.0/win10-x64/Notes.csproj.BuildWithSkipAnalyzers
 /Notes/obj/Debug/net9.0-windows10.0.19041.0/win10-x64/_XamarinBuildIsIncremental
 *.props
+/Notes/obj
+/Notes/obj
+/Notes/obj/Debug/net9.0-android
+/Notes/obj
