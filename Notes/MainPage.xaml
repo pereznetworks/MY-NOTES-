@@ -12,7 +12,7 @@
 
         <Editor x:Name="editor"
                 Placeholder="Enter your note"
-                HeightRequest="{OnPlatform 500, Android=500, iOS=500}"
+                HeightRequest="{OnPlatform 500, Android=150, iOS=500}"
                 TextColor="{x:Static Member=notes:SharedResources.FontColor}"/>
 
         <Grid Grid.Row="2" ColumnDefinitions="Auto,30,Auto">
